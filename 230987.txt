@@ -1,0 +1,132 @@
+{
+	"pages": [
+		{
+			"images": [],
+			"pageNumber": 1,
+			"tables": [],
+			"text": "Evaluating scholastic achievement in pediatric brain tumor survivors compared to healthy controls. \n\nget_app Download Materials keyboard_arrow_down share Share more_vert \n\narticle \n\nAbstract \n\nDetails \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPoster Bd # 432 \n\n\n\nAbstract # 10065 \n\n\n\nDOI 10.1200/JCO.2024.42.16_suppl.10065 \n\n\n\nCitation J Clin Oncol 42, 2024 (suppl 16; abstr 10065) \n\n\n\nSub Track Survivorship \n\n\n\nTrack Pediatric Oncology \n\n\n\nSession Title Pediatric Oncology \n\n\n\nSession Type Poster Session \n\n\n\nMeeting 2024 ASCO Annual Meeting \n\n\n\nFirst A uthor Raymond Mailhot Vega \n",
+			"textBlocks": [
+				{
+					"kind": "section_title",
+					"texts": [
+						"Evaluating scholastic achievement in pediatric brain tumor survivors compared to healthy controls. "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"get_app Download Materials keyboard_arrow_down share Share more_vert "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"article "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"Abstract "
+					]
+				},
+				{
+					"kind": "section_title",
+					"texts": [
+						"Details "
+					]
+				}
+			]
+		},
+		{
+			"images": [],
+			"pageNumber": 2,
+			"tables": [],
+			"text": "\nAuthors \n\n\nRaymond Mailhot Vega \n\nDepartment of Radiation Oncology, University of Florida College of Medicine Jacksonville, Jacksonville, FL \n\ninfo_outline \n\nRaymond Mailhot Vega, Daniel J. Indelicato, Julie A. Bradley, Adeel M. Markatia, Erin M. Mobley, Eric S. Sandler, Philipp R. Aldana, Jasmin E. Gomez, Daniel Velasco, Christopher G. Morris, Amy M. Crisp, Nancy P. Mendenhall, M. David Miller \n\nOrganizations \n\nDepartment of Radiation Oncology, University of Florida College of Medicine Jacksonville, Jacksonville, FL, Department of Radiation Oncology, University of Florida, Jacksonville, FL, Department of Surgery, University of Florida College of Medicine Jacksonville, Jacksonville, FL, Nemours Children's Health, Jacksonville, FL, Department of Neurosurgery, University of Florida College of Medicine Jacksonville, Jacksonville, FL, University of Pennsylvania Graduate School of Education, Philadelphia, PA, Ensemble Learning, West Hollywood, CA, Center for Data Solutions, University of Florida College of Medicine Jacksonville, Jacksonville, FL, School of Human Development and Organizational Studies in Education and Education Policy Research Center, University of Florida College of Education, Gainesville, FL A bstract Disclosures \n\nResearch Funding \n\nNo funding sources reported \n\n Background: Radiotherapy (RT) causes cognitive deficits in pediatric brain tumor survivors (PBTS). This has traditionally been measured using exams such as serial IQ tests administered after diagnosis. ",
+			"textBlocks": [
+				{
+					"kind": "section_title",
+					"texts": [
+						"Raymond Mailhot Vega "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"Department of Radiation Oncology, University of Florida College of Medicine Jacksonville, Jacksonville, FL "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"info_outline "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"Raymond Mailhot Vega, Daniel J. Indelicato, Julie A. Bradley, Adeel M. Markatia, Erin M. Mobley, Eric S. Sandler, Philipp R. Aldana, Jasmin E. Gomez, Daniel Velasco, Christopher G. Morris, Amy M. Crisp, Nancy P. Mendenhall, M. David Miller "
+					]
+				},
+				{
+					"kind": "section_title",
+					"texts": [
+						"Organizations "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"Department of Radiation Oncology, University of Florida College of Medicine Jacksonville, Jacksonville, FL, Department of Radiation Oncology, University of Florida, Jacksonville, FL, Department of Surgery, University of Florida College of Medicine Jacksonville, Jacksonville, FL, Nemours Children's Health, Jacksonville, FL, Department of Neurosurgery, University of Florida College of Medicine Jacksonville, Jacksonville, FL, University of Pennsylvania Graduate School of Education, Philadelphia, PA, Ensemble Learning, West Hollywood, CA, Center for Data Solutions, University of Florida College of Medicine Jacksonville, Jacksonville, FL, School of Human Development and Organizational Studies in Education and Education Policy Research Center, University of Florida College of Education, Gainesville, FL A bstract Disclosures "
+					]
+				},
+				{
+					"kind": "section_title",
+					"texts": [
+						"Research Funding "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"No funding sources reported "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						" Background: Radiotherapy (RT) causes cognitive deficits in pediatric brain tumor survivors (PBTS). This has traditionally been measured using exams such as serial IQ tests administered after diagnosis. "
+					]
+				}
+			]
+		},
+		{
+			"images": [],
+			"pageNumber": 3,
+			"tables": [],
+			"text": "Scholastic data provides pre-diagnostic measurements and is practical for patients and families. In our state, testing in reading and mathematics is mandated annually for grades 3-11. We sought to evaluate scholastic achievement in PBTS pre- and post-RT treatment. Methods: With IRB approval, we retrospectively analyzed scholastic achievement in children (<21) with primary brain tumors treated with RT at our institution. Eligible children all resided within the state of the institution and were treated 2007- 2020. The state's Department of Education (DOE) provided test scores, school grades, and accommodations, which were matched to institutional clinical data. The other scholastic outcome of interest was A chievement Level (range 1-5 where 5 reflects highest achievement) from state-mandated standardized assessments in Mathematics and Reading, tested annually in grades 3-11. The DOE also provided scholastic data on healthy children matched 3:1 to treated patients by year, district, age, and whether the child was eligible for free or reduced lunch. A general linear mixed-effects model was performed with the above dependent variables and independent variables grade, time (a binary value being pre- or post-time of RT), and treatment (a child being treated or healthy). The interaction term of time* treatment was the outcome of interest, with =0.1 for this pilot. Odds ratios (ORs) are reported. Results: A total of 200 students were available for analysis: 50 recruited patients and 150 matched controls identified by the DOE with median age 11.6 years at treatment and 7 years median follow-up. Fifty-two percent were eligible for free or reduced lunch. Fifty-six percent received craniospinal irradiation. Thirty-seven (60%) children had post-treatment scholastic data with 179 annual observations available. Of those, there were 10 (6%) physical education waivers, 32 (18%) testing accommodations, and 6 (3%) academic retentions. Compared to matched controls, treated patients were significantly more likely to receive accommodations (OR=31; p=0.001) and significantly less likely to receive a standard grade promotion (OR=0.57; p=0.005) or passing Mathematics scores (OR=0.47; p=0.05). Conclusions: We present the first reporting of scholastic data for United States PBTS. We demonstrate a novel method using existing state mandated school performance testing to evaluate academic performance in PBTS receiving RT. Compared to matched healthy children, we noted significantly increased needs and worse scholastic performance for PBTS. Evaluating scholastic success is an unmet need for PBTS, and we demonstrate the feasibility of using school performance as a novel patient-centered metric. \n\nThis material on this page is ©2024 American Society of Clinical Oncology, all rights reserved. Licensing available upon request. For more information, please contact licensing@asco.org Recommended For Y ou \n\n To view items recommended for you, please sign in to your ASCO. org account. Sign In chevron_right ",
+			"textBlocks": [
+				{
+					"kind": "text",
+					"texts": [
+						"Scholastic data provides pre-diagnostic measurements and is practical for patients and families. In our state, testing in reading and mathematics is mandated annually for grades 3-11. We sought to evaluate scholastic achievement in PBTS pre- and post-RT treatment. Methods: With IRB approval, we retrospectively analyzed scholastic achievement in children (<21) with primary brain tumors treated with RT at our institution. Eligible children all resided within the state of the institution and were treated 2007- 2020. The state's Department of Education (DOE) provided test scores, school grades, and accommodations, which were matched to institutional clinical data. The other scholastic outcome of interest was A chievement Level (range 1-5 where 5 reflects highest achievement) from state-mandated standardized assessments in Mathematics and Reading, tested annually in grades 3-11. The DOE also provided scholastic data on healthy children matched 3:1 to treated patients by year, district, age, and whether the child was eligible for free or reduced lunch. A general linear mixed-effects model was performed with the above dependent variables and independent variables grade, time (a binary value being pre- or post-time of RT), and treatment (a child being treated or healthy). The interaction term of time* treatment was the outcome of interest, with =0.1 for this pilot. Odds ratios (ORs) are reported. Results: A total of 200 students were available for analysis: 50 recruited patients and 150 matched controls identified by the DOE with median age 11.6 years at treatment and 7 years median follow-up. Fifty-two percent were eligible for free or reduced lunch. Fifty-six percent received craniospinal irradiation. Thirty-seven (60%) children had post-treatment scholastic data with 179 annual observations available. Of those, there were 10 (6%) physical education waivers, 32 (18%) testing accommodations, and 6 (3%) academic retentions. Compared to matched controls, treated patients were significantly more likely to receive accommodations (OR=31; p=0.001) and significantly less likely to receive a standard grade promotion (OR=0.57; p=0.005) or passing Mathematics scores (OR=0.47; p=0.05). Conclusions: We present the first reporting of scholastic data for United States PBTS. We demonstrate a novel method using existing state mandated school performance testing to evaluate academic performance in PBTS receiving RT. Compared to matched healthy children, we noted significantly increased needs and worse scholastic performance for PBTS. Evaluating scholastic success is an unmet need for PBTS, and we demonstrate the feasibility of using school performance as a novel patient-centered metric. "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						"This material on this page is ©2024 American Society of Clinical Oncology, all rights reserved. Licensing available upon request. For more information, please contact licensing@asco.org Recommended For Y ou "
+					]
+				},
+				{
+					"kind": "text",
+					"texts": [
+						" To view items recommended for you, please sign in to your ASCO. org account. Sign In chevron_right "
+					]
+				}
+			]
+		}
+	],
+	"text": "Evaluating scholastic achievement in pediatric brain tumor survivors compared to healthy controls. \n\nget_app Download Materials keyboard_arrow_down share Share more_vert \n\narticle \n\nAbstract \n\nDetails \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPoster Bd # 432 \n\n\n\nAbstract # 10065 \n\n\n\nDOI 10.1200/JCO.2024.42.16_suppl.10065 \n\n\n\nCitation J Clin Oncol 42, 2024 (suppl 16; abstr 10065) \n\n\n\nSub Track Survivorship \n\n\n\nTrack Pediatric Oncology \n\n\n\nSession Title Pediatric Oncology \n\n\n\nSession Type Poster Session \n\n\n\nMeeting 2024 ASCO Annual Meeting \n\n\n\nFirst A uthor Raymond Mailhot Vega \n\n\nAuthors \n\n\nRaymond Mailhot Vega \n\nDepartment of Radiation Oncology, University of Florida College of Medicine Jacksonville, Jacksonville, FL \n\ninfo_outline \n\nRaymond Mailhot Vega, Daniel J. Indelicato, Julie A. Bradley, Adeel M. Markatia, Erin M. Mobley, Eric S. Sandler, Philipp R. Aldana, Jasmin E. Gomez, Daniel Velasco, Christopher G. Morris, Amy M. Crisp, Nancy P. Mendenhall, M. David Miller \n\nOrganizations \n\nDepartment of Radiation Oncology, University of Florida College of Medicine Jacksonville, Jacksonville, FL, Department of Radiation Oncology, University of Florida, Jacksonville, FL, Department of Surgery, University of Florida College of Medicine Jacksonville, Jacksonville, FL, Nemours Children's Health, Jacksonville, FL, Department of Neurosurgery, University of Florida College of Medicine Jacksonville, Jacksonville, FL, University of Pennsylvania Graduate School of Education, Philadelphia, PA, Ensemble Learning, West Hollywood, CA, Center for Data Solutions, University of Florida College of Medicine Jacksonville, Jacksonville, FL, School of Human Development and Organizational Studies in Education and Education Policy Research Center, University of Florida College of Education, Gainesville, FL A bstract Disclosures \n\nResearch Funding \n\nNo funding sources reported \n\n Background: Radiotherapy (RT) causes cognitive deficits in pediatric brain tumor survivors (PBTS). This has traditionally been measured using exams such as serial IQ tests administered after diagnosis. \nScholastic data provides pre-diagnostic measurements and is practical for patients and families. In our state, testing in reading and mathematics is mandated annually for grades 3-11. We sought to evaluate scholastic achievement in PBTS pre- and post-RT treatment. Methods: With IRB approval, we retrospectively analyzed scholastic achievement in children (<21) with primary brain tumors treated with RT at our institution. Eligible children all resided within the state of the institution and were treated 2007- 2020. The state's Department of Education (DOE) provided test scores, school grades, and accommodations, which were matched to institutional clinical data. The other scholastic outcome of interest was A chievement Level (range 1-5 where 5 reflects highest achievement) from state-mandated standardized assessments in Mathematics and Reading, tested annually in grades 3-11. The DOE also provided scholastic data on healthy children matched 3:1 to treated patients by year, district, age, and whether the child was eligible for free or reduced lunch. A general linear mixed-effects model was performed with the above dependent variables and independent variables grade, time (a binary value being pre- or post-time of RT), and treatment (a child being treated or healthy). The interaction term of time* treatment was the outcome of interest, with =0.1 for this pilot. Odds ratios (ORs) are reported. Results: A total of 200 students were available for analysis: 50 recruited patients and 150 matched controls identified by the DOE with median age 11.6 years at treatment and 7 years median follow-up. Fifty-two percent were eligible for free or reduced lunch. Fifty-six percent received craniospinal irradiation. Thirty-seven (60%) children had post-treatment scholastic data with 179 annual observations available. Of those, there were 10 (6%) physical education waivers, 32 (18%) testing accommodations, and 6 (3%) academic retentions. Compared to matched controls, treated patients were significantly more likely to receive accommodations (OR=31; p=0.001) and significantly less likely to receive a standard grade promotion (OR=0.57; p=0.005) or passing Mathematics scores (OR=0.47; p=0.05). Conclusions: We present the first reporting of scholastic data for United States PBTS. We demonstrate a novel method using existing state mandated school performance testing to evaluate academic performance in PBTS receiving RT. Compared to matched healthy children, we noted significantly increased needs and worse scholastic performance for PBTS. Evaluating scholastic success is an unmet need for PBTS, and we demonstrate the feasibility of using school performance as a novel patient-centered metric. \n\nThis material on this page is ©2024 American Society of Clinical Oncology, all rights reserved. Licensing available upon request. For more information, please contact licensing@asco.org Recommended For Y ou \n\n To view items recommended for you, please sign in to your ASCO. org account. Sign In chevron_right ",
+	"title": null
+}

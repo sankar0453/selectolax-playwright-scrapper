@@ -1,0 +1,5 @@
+# scrapy
+requests
+selectolax
+playwright
+pandas
